@@ -1,4 +1,4 @@
-pylons-hosting
-==============
+hosted-services
+===============
 
-PylonsProject Hosting at RackSpaceCloud
+The list of all hosted services for the Pylons Project.
