@@ -18,7 +18,7 @@ The list of all hosted services for the Pylons Project.
 - **Other Users:** Michael Merickel, Philip Jenvey, Steve Piercy
 
 
-### DNS
+## DNS
 
 - **Provider:** 
 - **Description:** 
@@ -26,7 +26,7 @@ The list of all hosted services for the Pylons Project.
 - **Other Users:** 
 
 
-### Domain Name Registration
+## Domain Name Registration
 
 - **Provider:** 
 - **Description:** 
@@ -34,14 +34,14 @@ The list of all hosted services for the Pylons Project.
 - **Other Users:** 
 
 
-### Mail
+## Mail
 
 - **Provider:** 
 - **Description:** 
 - **Admin:** Blaise LaFlamme
 - **Other Users:** 
 
-### Twitter
+## Twitter
 
 - **Description:** @pylons
 - **Admin:** Michael Ryabushkin, Steve Piercy
@@ -54,7 +54,7 @@ The list of all hosted services for the Pylons Project.
 - **Other Users:** 
 
 
-### Web Hosting
+## Web Hosting
 
 - **Provider:** 
 - **Description:** www.pylonsproject.org resides in https://github.com/pylons/pylonshq
