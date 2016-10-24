@@ -3,7 +3,7 @@ hosted-services
 
 The list of all hosted services for the Pylons Project.
 
-Discussion Lists
+## Discussion Lists
 
 - **Provider:** Google Groups
 - **Description:** https://groups.google.com/forum/#!forum/pylons-discuss is for general discussion and support of projects under the Pylons Project.
@@ -18,8 +18,7 @@ Discussion Lists
 - **Other Users:** Michael Merickel, Philip Jenvey, Steve Piercy
 
 
-DNS
----
+### DNS
 
 - **Provider:** 
 - **Description:** 
@@ -27,8 +26,7 @@ DNS
 - **Other Users:** 
 
 
-Domain Name Registration
-------------------------
+### Domain Name Registration
 
 - **Provider:** 
 - **Description:** 
@@ -36,16 +34,14 @@ Domain Name Registration
 - **Other Users:** 
 
 
-Mail
-----
+### Mail
 
 - **Provider:** 
 - **Description:** 
 - **Admin:** Blaise LaFlamme
 - **Other Users:** 
 
-Twitter
--------
+### Twitter
 
 - **Description:** @pylons
 - **Admin:** Michael Ryabushkin, Steve Piercy
@@ -58,8 +54,7 @@ Twitter
 - **Other Users:** 
 
 
-Web Hosting
------------
+### Web Hosting
 
 - **Provider:** 
 - **Description:** www.pylonsproject.org resides in https://github.com/pylons/pylonshq
