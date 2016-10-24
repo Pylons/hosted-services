@@ -10,6 +10,7 @@ Discussion Lists
 - **Admin:** Michael Merickel, Ben Bangert, Captain Murphy (owners)
 - **Other Users:** Chris McDonough, James Gardner, Philip Jenvey, Steve Piercy (managers)
 
+---
 
 - **Provider:** Google Groups
 - **Description:** https://groups.google.com/forum/#!forum/pylons-devel is for development discussion of projects under the Pylons Project.
@@ -50,6 +51,7 @@ Twitter
 - **Admin:** Michael Ryabushkin, Steve Piercy
 - **Other Users:** 
 
+---
 
 - **Description:** @trypyramid
 - **Admin:** Steve Piercy
@@ -64,6 +66,7 @@ Web Hosting
 - **Admin:** Blaise LaFlamme
 - **Other Users:** 
 
+---
 
 - **Provider:** 
 - **Description:** https://trypyramid.com/ resides in https://github.com/pylons/trypyramid
