@@ -43,13 +43,19 @@ The list of all hosted services for the Pylons Project.
 
 ## Twitter
 
-- **Description:** @pylons
+- **Description:** @PylonsProject
 - **Admin:** Michael Ryabushkin, Steve Piercy
 - **Other Users:** 
 
 ---
 
-- **Description:** @trypyramid
+- **Description:** @TryPyramid (archived)
+- **Admin:** Steve Piercy
+- **Other Users:** 
+
+---
+
+- **Description:** @Pylons (archived)
 - **Admin:** Steve Piercy
 - **Other Users:** 
 
@@ -59,7 +65,7 @@ The list of all hosted services for the Pylons Project.
 - **Provider:** 
 - **Description:** www.pylonsproject.org resides in https://github.com/pylons/pylonshq
 - **Admin:** Blaise LaFlamme
-- **Other Users:** 
+- **Other Users:** Steve Piercy
 
 ---
 
